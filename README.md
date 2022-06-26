@@ -1,4 +1,4 @@
-# Sales Analytivs and Customer-Insight
+# Sales Analytics and Customer-Insight
 
 
 The objective of this project is to conduct an analysis of the client’s transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations
