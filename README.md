@@ -3,11 +3,16 @@
 
 The objective of this project is to conduct an analysis of the client’s transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations
 
-Specific area of focus includes: 
-• Cleaning the data, Identifying missing values and outliers 
-• Customer Spend Analytics 
-• Product type and Size Analytics 
+Specific area of focus includes:
+
+• Cleaning the data, Identifying missing values and outliers
+
+• Customer Spend Analytics
+
+• Product type and Size Analytics
+
 • Customer Segment, in relation to Spend and Product Analytics
+
 
 Based on the analysis, the following was recommended:
 
